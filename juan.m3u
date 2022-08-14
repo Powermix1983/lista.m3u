@@ -1,0 +1,677 @@
+#EXTINF:-1,#EXTM3U list-name="Canales Latinos ðŸ˜ " list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/vtvplus.json
+https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/vtvpuy.json
+https://api54.tvgratis.live/streams/1246/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvar.json
+https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvcl.json
+https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvec.json
+https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvco.json
+https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvuy.json
+https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvpe.json
+https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtv2.json
+https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvplus.json
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvfigth.json
+https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/pasiones.json
+https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcine.json
+https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcomedy.json
+https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalpremier.json
+https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcrime.json
+https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalreality.json
+https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/volverar.json
+https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd?gith
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/tvciudad.json
+https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/tnu.json
+https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/canal4uy.json
+https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/muchmusic.json
+https://anbalancer.express.com.ar/live/c1eds/Mucha_Musica/SA_DASH_cipix/Mucha_Musica.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/htv.json
+https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/vorterix.json
+https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
+
+#EXTINF:-1, QUIERO
+https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd
+
+#EXTINF:-1, DISCOVERY SCIENCE
+https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/filmarts.json
+https://anbalancer.express.com.ar/live/c1eds/Film_Arts/SA_DASH_cipix/Film_Arts.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/foodnet.json
+https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/isat.json
+https://cdn.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/hbosig.json
+https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/natkids.json
+https://dtvott-cbc.akamaized.net/dash_live_1167/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/paka.json
+https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/americas.json
+https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/px.json
+https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/nba.json
+https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/golf.json
+https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/26.json
+http://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/foxsports3ar.json
+https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api5/
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/keys/deportv.json
+https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/americatvar.json
+https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tnar.json
+https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/cronicatvar.json
+https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/canal12uy.json
+https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/canal10uy.json
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/a3series.json
+https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd
+
+#EXTINF:-1, DISCOVERY WORLD
+https://anbalancer.express.com.ar/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/disturbo.json
+https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/boomerang.json
+https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/paramount.json
+https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/hbomundi.json
+http://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/vtv.json
+https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/hboxtreme.json
+http://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/hbopop.json
+http://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/babytv.json
+https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd
+
+#EXTINF:-1, FOX SPORTS
+https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/foxsmx.json
+https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/foxsports2.json
+https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api5/
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1, FX
+https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/espnpremium.json
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tntsportsar.json
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tntsportscl.json
+https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/ecdf.json
+https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
+
+#EXTINF:-1, GOL PERÚ
+https://api55.tvgratis.live/st2/golperu/master.m3u8
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/izz.json
+https://canal-afizzionados-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://canal-tdn-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://canal-depelicula-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://channel-golden-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://channel-goldenedge-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://channel-goldenplus-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://canal-goldenmpx-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://canal-tlnovelas-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/europa.json
+https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/warner.json
+https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
+
+#EXTINF:-1, UNIVERSAL
+https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/tooncast.json
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tntseries.json
+https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tlc.json
+https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
+
+#EXTINF:-1, TELEMUNDO
+https://anbalancer.express.com.ar/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemundo_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tcm.json
+https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
+
+#EXTINF:-1, ESTUDIO UNIVERSAL
+https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/id.json
+https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/hboplus.json
+https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/hbo.json
+https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/hbofam.json
+https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/hbo2.json
+https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/star.json
+https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/gourmet.json
+https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/diskids.json
+https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/hyh.json
+https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/disneyxd.json
+https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/disneyjr.json
+https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/disney.json
+https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/cinecanal.json
+https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANAL_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/comedycentral.json
+https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/animalplanet.json
+https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/discovery.json
+https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/espnplus.json
+https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/espn2ar.json
+https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/espn2mx.json
+https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/history.json
+https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/trutv.json
+https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
+
+#EXTINF:-1, CINEMAX
+https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/h2.json
+https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/cn.json
+https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/natgeo.json
+https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/hgtv.json
+https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
+
+#EXTINF:-1, ESPACIO
+https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/espnar.json
+https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api5/
+https://d2s7l7f5odbhu9.cloudfront.net/out/u/dash/ESPN-HD/default.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/mtv.json
+https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
+
+#EXTINF:-1, AMC
+https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/nick.json
+https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/espn3ar.json
+https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/espn3mx.json
+https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/espn4.json
+https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
+
+#EXTINF:-1, A&E
+https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd
+
+#EXTINF:-1, AXN
+https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/sony.json
+https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
+
+#EXTINF:-1, TNT
+https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/cnn.json
+https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/telefe.json
+https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/eltrecear.json
+https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/elnuevear.json
+https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
+
+#EXTINF:-1, TYC SPORTS
+https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/keys/goltvec.json
+https://api54.tvgratis.live/streams/1134/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/winplus.json
+https://api54.tvgratis.live/streams/1251/manifest.mpd
+
+#EXTINF:-1, GANAR DEPORTES
+https://api55.tvgratis.live/streams3/master.m3u8?id=292
+
+#EXTINF:-1, RED UFC
+https://api55.tvgratis.live/streams3/master.m3u8?id=97
+
+#EXTINF:-1, TIGO SPORTS BOLIVIA
+https://api55.tvgratis.live/streams3/master.m3u8?id=764
+
+#EXTINF:-1, F1
+https://api55.tvgratis.live/streams3/master.m3u8?id=192
+
+#EXTINF:-1, CANAL DE TENIS
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/c5nar.json
+https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/syfy.json
+https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
+
+#EXTINF:-1, TBS
+https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/lifetime.json
+https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tvpuar.json
+https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/playboy.json
+https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/sextreme.json
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/venus.json
+https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/a24ar.json
+https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/nettv.json
+https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/magazine.json
+https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/lanacion.json
+https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/encuentro.json
+https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
+
+#EXTINF:-1, TV PERÚ
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1, ATV PERU
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1, PANAMERICANA
+http://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/latina.json
+https://api54.tvgratis.live/streams/1157/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/americatv.json
+https://api54.tvgratis.live/streams/1011/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/willax.json
+https://api54.tvgratis.live/streams/1249/manifest.mpd
+
+#EXTINF:-1, BOLIVIA TV
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTINF:-1, BOLIVISION
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1, DTV PLAY
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+
+#EXTINF:-1, MEGATV BOLIVIA
+https://livefocamundo.com:8081/megavisiontv/index.m3u8
+
+#EXTINF:-1, RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1, TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
+
+#EXTINF:-1, TVN
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+
+#EXTINF:-1, CHILEVISION
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceDGENT%=0&device&TARGELon=0&device%TTARDEvice%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1, LA RED
+https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF:-1, MEGA CHILE
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1, UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1, TRECE CHILE
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1, ADN CHILE
+https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/aztecauno.json
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/azteca7.json
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://canal-canal5-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api5/
+https://d2ya662kz0kh0s.cloudfront.net/out/u/dash/CDMX/IMAGEN-TV-HD/dash/IMAGEN-TV-HD.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://canal-estrellas-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://canal-forotv-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://channel-tiin-cdn.blim.com/manifest.mpd?gith
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://canal-distritocomedia-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
+https://canal-unicable-cdn.blim.com/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/nueve.json
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
+
+#EXTINF:-1, ADN40
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1, MULTIMEDIOS
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1, ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, MEXIQUENSE
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1, TELEMAX
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1, CANAL 2
+https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
+
+#EXTINF:-1, CANAL CAPITAL
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1, TELEPACIFICO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1, TRECE COLOMBIA
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/rcn.json
+https://api54.tvgratis.live/streams/1185/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/caracol.json
+https://api54.tvgratis.live/streams/1035/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/citytv.json
+https://api54.tvgratis.live/streams/1048/manifest.mpd
+
+#EXTINF:-1, CANAL 1
+http://138.117.84.82/co_canal_uno_sd/index.m3u8
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/ntn24.json
+https://dtvott-abc.akamaized.net/dash_live_1176/manifest.mpd
+
+#EXTINF:-1, SENAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1, ASOMAVISION
+https://asomatv.duckdns.org/livestream/stream.m3u8
+
+#EXTINF:-1, CANELA TV
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
+
+#EXTINF:-1, ECOTEL
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1, ECUADOR TV
+http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/rts.json
+https://dtvott-cbc.akamaized.net/dash_live_1186/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/ecuavisa.json
+https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/oromar.json
+https://dtvott-cbc.akamaized.net/dash_live_1179/manifest.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tctv.json
+https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd
+
+#EXTINF:-1, ABC
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/snt.json
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/telefuturo.json
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/paraguaytv.json
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/latele.json
+https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/paravision.json
+https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/tvcamara.json
+https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_2A/TV_Camara.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/gen.json
+https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/5dias.json
+https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/unicanal.json
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/surtv.json
+https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/trece.json
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
+
+#EXTINF:-1, DOS HOMBRES Y MEDIO
+https://api55.tvgratis.live/streams3/master.m3u8?id=675
+
+#EXTINF:-1, TOM Y JERRY
+https://api55.tvgratis.live/streams3/master.m3u8?id=421
+
+#EXTINF:-1, LA TEORÍA DEL BIG BANG
+https://api55.tvgratis.live/streams3/master.m3u8?id=676
+
+#EXTINF:-1, PARQUE SUR
+https://api55.tvgratis.live/streams3/master.m3u8?id=674
+
+#EXTINF:-1, LOS SIMPSONS
+https://api55.tvgratis.live/streams3/master.m3u8?id=797
+
+#EXTINF:-1, SCOOBY DOO
+https://api55.tvgratis.live/streams3/master.m3u8?id=422
+
+#EXTINF:-1, PEPPA PIG
+https://api55.tvgratis.live/streams3/master.m3u8?id=787
+
+#EXTINF:-1, NARUTO
+https://api55.tvgratis.live/streams3/master.m3u8?id=523
+
+#EXTINF:-1, LOONEY TUNES
+https://api55.tvgratis.live/streams3/master.m3u8?id=524
+
+#EXTINF:-1, GARDFIELD
+https://api55.tvgratis.live/streams3/master.m3u8?id=812
+
+#EXTINF:-1, FUTURAMA
+https://api55.tvgratis.live/streams3/master.m3u8?id=793
+
+#EXTINF:-1, EL CHAVO
+https://api55.tvgratis.live/streams3/master.m3u8?id=400
+
+#EXTINF:-1, DRAGON BALL Z
+https://api55.tvgratis.live/streams3/master.m3u8?id=33
+
+#EXTINF:-1, CHAPULIN COLORADO
+https://api55.tvgratis.live/streams3/master.m3u8?id=418
+
+#EXTINF:-1, CORAJE
+https://api55.tvgratis.live/streams3/master.m3u8?id=519
